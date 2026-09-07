@@ -22,8 +22,22 @@ h1{
     color:#facb37;
 }
 
-aside{
+aside {
     background:#d83134;
     color:#F6F6F4;
     border:6px solid #111111;
+}
+main{
+    background:#F6F6F4;
+    border:6px solid #111111;
+}
+article{
+    background:#F6F6F4;
+    border:6px solid #111111;
+}
+h2{
+    color:#d83134
+}
+h3{
+    color:#3153d1
 }
